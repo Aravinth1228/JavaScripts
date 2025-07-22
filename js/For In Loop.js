@@ -7,5 +7,5 @@ let user = {
 
 for(let prop in user)
 {
-  console.log(prop+" : "+user[prop]);
+  console.log(prop + " : " + user[prop]);
 }
